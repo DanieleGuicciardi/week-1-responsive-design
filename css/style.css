@@ -11,6 +11,7 @@ body{
 header{
     background-color: black;
     text-align: center;
+    padding: 1em;
 }
 
 header img{
@@ -101,23 +102,63 @@ header img{
 #laptop{
     margin-top: 2em;
     margin-bottom: 2em;
-    border-bottom: 2px solid #dee1e3;
+    border: 2px solid #dee1e3;
 }
 
 #laptop img{
-    width: 30em;
+    width: 26em;
 }
+
+/* ------------------------------------------------------------------- */
+
+/* fifth div */
+#closeLaptop {
+    margin-top: 2em;
+    margin-bottom: 2em;
+    border: 2px solid #dee1e3;
+}
+
+#closeLaptop img{
+    width: 26em;
+}
+
+/* ------------------------------------------------------------------- */
+
+/* sixth div */
+#office{
+    margin-top: 2em;
+    margin-bottom: 2em;
+    border: 2px solid #dee1e3;
+}
+
+#office img {
+    width: 26em;
+}
+
 
 /* ------------------------------------------------------------------- */
 footer{
     color: #c8e7f0;
     background-color: #25a2c3;
+    font-size: smaller;
 }
 
 footer h2 {
     color: white;
+    font-size: 1.7em;
+    font-weight: bold;
+    padding: 0.5em;
 }
 
 footer a{
     color: #c8e7f0;
+}
+
+#info{
+    margin-top: 1em;
+    margin-bottom: 2.2em;
+}
+
+footer p{
+    font-size: smaller;
 }
