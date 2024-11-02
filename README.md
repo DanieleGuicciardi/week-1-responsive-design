@@ -1,6 +1,6 @@
 # Weekly Project: Responsive Website Development
 
-Welcome to my **Weekly Project on Responsive Website Development**! In this repository, I will showcase my work on creating a fully responsive website layout optimized for both mobile and desktop devices. This project is part of my ongoing journey in the **Epicode Front-End Development** course, where I focus on mastering the essentials of modern web design.
+Welcome to my **Weekly Project on Responsive Website Development**! In this repository, I will showcase my work on creating a fully responsive website layout. This project is part of my ongoing journey in the **Epicode Front-End Development** course, where I focus on mastering the essentials of modern web design.
 
 ## 🚀 Project Overview
 
@@ -10,6 +10,8 @@ The goal of this project is to design and develop a website that adapts seamless
 - **Media Queries** - Applying CSS rules at different breakpoints for optimal viewing experiences.
 - **Mobile-First Design** - Prioritizing mobile layout and progressively enhancing for larger screens.
 - **Cross-Browser Compatibility** - Ensuring the website performs consistently across different browsers.
+
+**IMPORTANT**: MEDIA QUERY cannot be used so there are 2 version, one for desktop and one for mobile.
 
 **Note**: In this project, I will not be using **Flexbox**. Instead, I will focus on traditional CSS techniques and layouts.
 
