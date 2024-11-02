@@ -1,0 +1,160 @@
+body{
+    font-family: 'Open Sans', serif;
+    color: #393d41;
+    font-size: 1rem;
+    line-height: 1.65;
+    text-align: center;
+}
+
+
+/* Top page */
+header{
+    background-color: black;
+    text-align: start;
+    padding: 1em;
+}
+
+header img{
+    width: 10%;
+}
+
+
+/* first div */
+#intro{
+    background-image: url('../images/banner.jpg');
+    background-size: cover;
+    background-position: center;
+    padding: 15%;
+}
+
+#intro h2{
+    font-family: 'Monserrat';
+    color: #25a2c3;
+    font-size: 2em;
+    font-weight: bold;
+    line-height: 1.5;
+
+}
+
+#intro button{
+    font-family: 'Montserrat', sans-serif;
+    background-color: #f04c2f;
+    color: white;
+    font-weight: bold;
+    line-height: 1.5;
+    border-radius: 5px;
+    font-size: 16px; 
+    padding: 15px 40px;
+    border: none;
+}
+
+#intro button:hover{   /* when the cursor go on the button it will be darker */
+    background-color: #e44329;
+}
+
+/* ------------------------------------------------------------------ */
+
+.smallTitle{   /* class for all the titles */
+    font-family: 'Monserrat';
+    color: #25a2c3 ;
+    line-height: 1.5;
+    font-weight: bold;
+
+}
+
+/* ------------------------------------------------------------------- */
+
+/* second div */
+#openLaptopDiv{
+    margin: 7em;
+}
+
+#openLaptopDiv .paragraph{
+    padding-bottom: 1em;
+}
+
+
+#openLaptopDiv img{
+    width: 17em;
+    border-radius: 20em;
+    float: left;
+    margin-left: 15em;
+    
+}
+
+/* ------------------------------------------------------------------- */
+
+/* third div */
+#mario{
+    background-color: #e44329;
+    color: white;
+    padding: 10%;
+}
+
+#mario h3{
+    font-family: 'Monserrat';
+    font-size: 1.5em;
+    font-weight: bold;
+    padding-bottom: 0.6em;
+}
+
+#mario .italic{
+    padding-bottom: 1em;
+    font-style: italic;
+}
+
+/* ------------------------------------------------------------------- */
+
+/* 3 div in 1 */
+#container #laptop{
+    width: 20%;
+    margin: 1em;
+    float: left;
+    border: 2px solid #dee1e3;
+}
+
+#container #laptop img{
+    width: 100%;
+}
+
+/* ------------------------------------------------------------------- */
+
+/* container of the 3 big div */
+#container{
+    margin-left: 16.5%;
+    width: 100%;
+    overflow: hidden;
+}
+
+/* ------------------------------------------------------------------- */
+footer{
+    color: #c8e7f0;
+    background-color: #25a2c3;
+    font-size: smaller;
+}
+
+footer h2 {
+    color: white;
+    font-size: 1.7em;
+    font-weight: bold;
+    padding: 0.5em;
+}
+
+footer a{
+    color: #c8e7f0;
+}
+
+#info{
+    margin-top: 1em;
+    margin-bottom: 2.2em;
+    width: 200px;
+    margin: 20px auto;
+    border-bottom: 1px solid #dee1e3;
+
+}
+
+footer p{
+    font-size: smaller;
+}
+
+
